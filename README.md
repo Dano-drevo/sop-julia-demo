@@ -5,4 +5,4 @@ go to the URL below and it will launch an interactive Julia environment(via jupy
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dano-drevo/sop-julia-demo/master?filepath=julia-getting-started.ipynb)
 
-Or explore built Binder [repository itself](https://mybinder.org/v2/gh/Dano-drevo/sop-julia-demo/master)
+Or explore built Binder [repository itself](https://mybinder.org/v2/gh/Dano-drevo/sop-julia-demo/master).
