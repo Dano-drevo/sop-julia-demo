@@ -7,7 +7,6 @@ click on the `Launch` button below and it will launch an interactive Julia envir
 
 Or explore built Binder [repository itself](https://mybinder.org/v2/gh/Dano-drevo/sop-julia-demo/master).
 
-You can look at the Jupyter notebooks in an unexecutable state directly here on github:
-         
- Markup : * [Introduction to Julia - short getting started text](julia_getting_started.ipynb)
-          * [Optimization problem solvation solution - Hard Margin Support Vector Machine](SVM_jl.ipynb)
+You can look at the Jupyter notebooks in an unexecutable state directly here on github:       
+* [Introduction to Julia - short getting started text](julia_getting_started.ipynb)
+* [Optimization problem solvation solution - Hard Margin Support Vector Machine](SVM_jl.ipynb)
