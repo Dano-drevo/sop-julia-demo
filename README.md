@@ -9,4 +9,4 @@ Or explore built Binder [repository itself](https://mybinder.org/v2/gh/Dano-drev
 
 You can look at the Jupyter notebooks in an unexecutable state directly here on github:       
 * [Introduction to Julia - short getting started text](julia_getting_started.ipynb)
-* [Optimization problem solvation solution - Hard Margin Support Vector Machine](SVM_jl.ipynb)
+* [Optimization problem solution - Hard Margin Support Vector Machine](SVM_jl.ipynb)
